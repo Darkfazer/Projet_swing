@@ -66,7 +66,8 @@ classDiagram
     Employeur "1" -- "1..*" Produits
     Employeur "1" -- "1..*" Projets
 Conception Des données UML - Use Case Diagram
-![Untitled diagram-2024-05-09-223143](https://github.com/Darkfazer/Projet_swing/assets/95308949/3a9852e3-4ae3-4a83-b09e-6b0867be3147)
+
+![Untitled diagram-2024-05-09-223143](https://github.com/Darkfazer/Projet_swing/assets/95308949/f3166c9b-1196-4308-bef8-bc23b6ed3ef2)
 
 graph TD;
     Utilisateur --> Gérer_Utilisateur;
