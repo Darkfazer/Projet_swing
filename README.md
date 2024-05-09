@@ -67,7 +67,7 @@ classDiagram
     Employeur "1" -- "1..*" Projets
 Conception Des données UML - Use Case Diagram
 
-![Untitled diagram-2024-05-09-223143](https://github.com/Darkfazer/Projet_swing/assets/95308949/f3166c9b-1196-4308-bef8-bc23b6ed3ef2)
+![Screenshot 2024-05-10 at 00-09-04 Class diagrams Mermaid](https://github.com/Darkfazer/Projet_swing/assets/95308949/902350ab-5d55-4c3e-9aab-bad163eb6e63)
 
 graph TD;
     Utilisateur --> Gérer_Utilisateur;
