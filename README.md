@@ -1,6 +1,6 @@
-# Project Swing
+### Conception Des données UML - Class Diagram
+![Untitled diagram-2024-05-09-221007](https://github.com/Darkfazer/Projet_swing/assets/95308949/96727e9d-a54f-4618-8886-3509c2856d16)
 
-## UML Class Diagram
 
 ```mermaid
 classDiagram
@@ -65,9 +65,9 @@ classDiagram
     Employeur "1" -- "1..*" Maconnerie
     Employeur "1" -- "1..*" Produits
     Employeur "1" -- "1..*" Projets
+Conception Des données UML - Use Case Diagram
+![Untitled diagram-2024-05-09-223143](https://github.com/Darkfazer/Projet_swing/assets/95308949/df340fb9-e92b-4e6c-bd4c-ddca296d5702)
 
-![Untitled diagram-2024-05-09-221007](https://github.com/Darkfazer/Projet_swing/assets/95308949/d8369cff-b522-4029-b875-5e074a52afc2)
-Uqecase Diagram
 graph TD;
     Utilisateur --> Gérer_Utilisateur;
     Employeur --> Gérer_Employeur;
@@ -82,7 +82,3 @@ graph TD;
         Gérer_Produits("Gérer Produits") --> Gérer_Produits_Details{" "}
         Gérer_Projets("Gérer Projets") --> Gérer_Projets_Details{" "}
     end
-
-
-![Untitled diagram-2024-05-09-223143](https://github.com/Darkfazer/Projet_swing/assets/95308949/0e0617cb-25a2-401e-bf97-e5d3367533d5)
-
